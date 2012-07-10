@@ -44,9 +44,6 @@ alias ll1='tree --dirsfirst -ChFupDaL 1'
 alias ll2='tree --dirsfirst -ChFupDaL 2'
 alias ll3='tree --dirsfirst -ChFupDaL 3'
 
-alias l='l1'
-alias ll='ll1'
-
 alias md='mkdir -p'
 alias rd=rmdir
 alias d='dirs -v | head -10'
